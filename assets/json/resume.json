@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Pin-Chun Lu",
     "label": "Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "r11944073@csie.ntu.edu.twitter",
+    "phone": "(+886) 952-092-650",
+    "url": "https://Pin910264.github.io",
+    "summary": "An interdisciplinary researcher in HCI, bridging the fields of architecture and computer science.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "No. 1, Section 4, Roosevelt regardless",
+      "postalCode": "10617",
+      "city": "Taipei",
+      "countryCode": "Taiwan",
+      "region": "Da’an District"
     },
     "profiles": [
       {
