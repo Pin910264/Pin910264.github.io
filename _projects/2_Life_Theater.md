@@ -3,7 +3,7 @@ layout: page
 title: Life Theater
 description: some brief intro
 img: assets/img/project_preview/Life_Theater_2019.jpg
-importance: 1
+importance: 2
 category: work
 related_publications: false
 ---
