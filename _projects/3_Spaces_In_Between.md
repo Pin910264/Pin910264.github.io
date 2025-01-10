@@ -3,7 +3,7 @@ layout: page
 title: Spaces In Between
 description: some brief intro
 img: assets/img/project_preview/Spaces_In_Between_2019.jpg
-importance: 1
+importance: 3
 category: work
 related_publications: false
 ---
