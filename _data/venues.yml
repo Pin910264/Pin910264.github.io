@@ -10,8 +10,8 @@
 
 "VeeR":
   # color: "#4c2128" 
-  color: "#919484"
+  color: "#919484"  # abbreviation tag color
 
 "WalkingVRMeeting":
   # color: "#586240"
-  color: "#a0ba68"
+  color: "#a0ba68"  # abbreviation tag color
